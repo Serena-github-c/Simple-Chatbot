@@ -22,3 +22,6 @@ Run the script and interact with the chatbot via a command line interface. Type 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+Serena
